@@ -1,0 +1,3 @@
+Catatan
+1. Hanya Bisa dibuka di google chrome
+2. Hanya Bisa terhadap file yang formatnya PDF
